@@ -1,0 +1,267 @@
+source,data,target,stato,region_code,region_name,code_province,denominazione_provincia,sigla_provincia,lat,long,totale_casi
+COVID-Delphi,2020-09-21,1 wk ahead cum death,US,41,US,989,Iosco County,IOS,46.729553,-94.6859,544
+,2020-09-21,1 wk ahead cum death,US,9,Connecticut,6409,Middlesex couny,MSC,41.603221,-73.087749,4493
+,2020-09-21,1 wk ahead cum death,,51,US,989,Iosco County,IOS,47.729553,-93.6859,3060
+,2020-09-21,1 wk ahead cum death,US,12,Florida,352,Alachua County,ALA,27.664827,-81.515754,13799
+,2020-09-21,1 wk ahead cum death,US,16,Idaho,208,Ada County,ADA,44.068202,-114.742041,463
+,2020-09-21,1 wk ahead cum death,US,15,Hawaii,808,Honolulu,HON,19.898682,-155.665857,130
+,2020-09-21,1 wk ahead cum death,US,10,Delaware,19901,Kent County,KEC,38.910832,-75.52767,622
+,2020-09-21,1 wk ahead cum death,US,24,Maryland,410,Queen Anne County,QAC,39.045755,-76.641271,3888
+,2020-09-21,1 wk ahead cum death,,39,US,989,Iosco County,IOS,48.729553,-92.6859,4742
+,2020-09-21,1 wk ahead cum death,US,5,Arkansas,870,Baxter County,BXC,35.20105,-91.831833,1242
+,2020-09-21,1 wk ahead cum death,,29,US,989,Iosco County,IOS,49.729553,-91.6859,1914
+,2020-09-21,1 wk ahead cum death,US,8,Colorado,303,Adams County,ADM,39.550051,-105.782067,2027
+,2020-09-21,1 wk ahead cum death,,38,US,989,Iosco County,IOS,50.729553,-90.6859,192
+,2020-09-21,1 wk ahead cum death,,40,US,989,Iosco County,IOS,51.729553,-89.6859,999
+,2020-09-21,1 wk ahead cum death,,47,US,989,Iosco County,IOS,52.729553,-88.6859,2333
+,2020-09-21,1 wk ahead cum death,,55,US,989,Iosco County,IOS,53.729553,-87.6859,1299
+,2020-09-21,1 wk ahead cum death,US,22,Louisiana,318,Red River Parish County,RRP,31.244823,-92.145024,5460
+,2020-09-21,1 wk ahead cum death,,32,US,989,Iosco County,IOS,54.729553,-86.6859,1586
+,2020-09-21,1 wk ahead cum death,,1,Alabama,334,Autauga County,,32.318231,-86.902298,2545
+,2020-09-21,1 wk ahead cum death,,49,US,989,Iosco County,IOS,55.729553,-85.6859,452
+,2020-09-21,1 wk ahead cum death,,54,US,989,Iosco County,IOS,56.729553,-84.6859,332
+,2020-09-21,1 wk ahead cum death,,25,US,989,Iosco County,IOS,57.729553,-83.6859,9322
+,2020-09-21,1 wk ahead cum death,,27,US,989,Iosco County,IOS,58.729553,-82.6859,2042
+,2020-09-21,1 wk ahead cum death,US,13,Georgia,912,Atkinson County,ATK,32.157435,-82.907123,6850
+,2020-09-21,1 wk ahead cum death,,56,US,989,Iosco County,IOS,59.729553,-81.6859,51
+,2020-09-21,1 wk ahead cum death,US,19,Iowa,641,Hancock County,HAN,41.878003,-93.097702,1328
+,2020-09-21,1 wk ahead cum death,US,11,District of Columbia,202,District of Columbia,DC,38.905985,-77.033418,622
+,2020-09-21,1 wk ahead cum death,,46,US,989,Iosco County,IOS,60.729553,-80.6859,204
+,2020-09-21,1 wk ahead cum death,,50,US,989,Iosco County,IOS,61.729553,-79.6859,58
+,2020-09-21,1 wk ahead cum death,,28,US,989,Iosco County,IOS,62.729553,-78.6859,2898
+,2020-09-21,1 wk ahead cum death,,48,US,989,Iosco County,IOS,63.729553,-77.6859,15708
+,2020-09-21,1 wk ahead cum death,US,18,Indiana,812,Sullivan County,SUL,40.551217,-85.602364,3592
+,2020-09-21,1 wk ahead cum death,US,20,Kansas,260,Allen County,ALN,39.011902,-98.484246,625
+,2020-09-21,1 wk ahead cum death,,37,US,989,Iosco County,IOS,64.729553,-76.6859,3380
+,2020-09-21,1 wk ahead cum death,,26,US,989,Iosco County,IOS,65.729553,-75.6859,7028
+,2020-09-21,1 wk ahead cum death,US,4,Arizona,85920,Apache County,APC,34.048928,-111.093731,5629
+,2020-09-21,1 wk ahead cum death,,53,US,989,Iosco County,IOS,66.729553,-74.6859,2107
+,2020-09-21,1 wk ahead cum death,US,17,Illinois,217,Edgar County,EDG,40.633125,-89.398528,8854
+,2020-09-21,1 wk ahead cum death,,42,US,989,Iosco County,IOS,67.729553,-73.6859,8025
+,2020-09-21,1 wk ahead cum death,,45,US,989,Iosco County,IOS,68.729553,-72.6859,3335
+,2020-09-21,1 wk ahead cum death,,31,US,989,Iosco County,IOS,69.729553,-71.6859,453
+,2020-09-21,1 wk ahead cum death,,33,US,989,Iosco County,IOS,70.729553,-70.6859,439
+,2020-09-21,1 wk ahead cum death,US,6,California,92328,Inyo County,INY,36.778261,-119.417932,15630
+,2020-09-21,1 wk ahead cum death,,30,US,989,Iosco County,IOS,71.729553,-69.6859,164
+,2020-09-21,1 wk ahead cum death,,34,US,989,Iosco County,IOS,72.729553,-68.6859,16078
+,2020-09-21,1 wk ahead cum death,,35,US,989,Iosco County,IOS,73.729553,-67.6859,862
+,2020-09-21,1 wk ahead cum death,US,21,Kentucky,42715,Adair County,ADR,37.839333,-84.270018,1162
+,2020-09-21,1 wk ahead cum death,US,23,Maine,4354,Waldo County,WAL,45.253783,-69.445469,140
+,2020-09-21,1 wk ahead cum death,,44,US,989,Iosco County,IOS,74.729553,-66.6859,1089
+,2020-09-21,1 wk ahead cum death,,US,,,,,,,203597
+,2020-09-21,1 wk ahead cum death,US,2,Alaska,907,Kenai Province,KP,63.588753,-154.493062,49
+,2020-09-21,1 wk ahead cum death,,36,US,989,Iosco County,IOS,75.729553,-65.6859,33088
+COVIDhub-ensembl,2020-09-21,1 wk ahead cum death,,60,US,989,Iosco County,IOS,76.729553,-64.6859,0
+,2020-09-21,1 wk ahead cum death,,69,US,989,Iosco County,IOS,77.729553,-63.6859,2
+,2020-09-21,1 wk ahead cum death,,66,US,989,Iosco County,IOS,78.729553,-62.6859,36
+,2020-09-21,1 wk ahead cum death,,78,US,989,Iosco County,IOS,79.729553,-61.6859,20
+,2020-09-21,1 wk ahead cum death,,72,US,989,Iosco County,IOS,80.729553,-60.6859,674
+,2020-09-21,1 wk ahead cum death,,50,US,989,Iosco County,IOS,81.729553,-59.6859,58
+,2020-09-21,1 wk ahead cum death,,36,US,989,Iosco County,IOS,82.729553,-58.6859,33142
+,2020-09-21,1 wk ahead cum death,US,9,Connecticut,6029,Tolland County,TOL,41.603221,-73.087749,4504
+,2020-09-21,1 wk ahead cum death,US,10,Delaware,19901,Kent County,KEC,38.910832,-75.52767,628
+,2020-09-21,1 wk ahead cum death,US,23,Maine,4355,Waldo County,WAL,45.253783,-69.445469,142
+,2020-09-21,1 wk ahead cum death,,56,US,989,Iosco County,IOS,83.729553,-57.6859,53
+,2020-09-21,1 wk ahead cum death,,51,US,989,Iosco County,IOS,84.729553,-56.6859,3123
+,2020-09-21,1 wk ahead cum death,US,15,Hawaii,96703,Kauai,KAU,19.898682,-155.665857,137
+,2020-09-21,1 wk ahead cum death,,47,US,989,Iosco County,IOS,85.729553,-55.6859,2357
+,2020-09-21,1 wk ahead cum death,,31,US,989,Iosco County,IOS,86.729553,-54.6859,460
+,2020-09-21,1 wk ahead cum death,,46,US,989,Iosco County,IOS,87.729553,-53.6859,214
+,2020-09-21,1 wk ahead cum death,,28,US,989,Iosco County,IOS,88.729553,-52.6859,2908
+,2020-09-21,1 wk ahead cum death,US,5,Arkansas,479,Crawford County,CRA,35.20105,-91.831833,1266
+,2020-09-21,1 wk ahead cum death,US,11,District of Columbia,202,District of Columbia,DC,38.905985,-77.033418,623
+,2020-09-21,1 wk ahead cum death,US,4,Arizona,85325,La Paz County,LPC,34.048928,-111.093731,5585
+,2020-09-21,1 wk ahead cum death,,55,US,989,Iosco County,IOS,89.729553,-51.6859,1283
+,2020-09-21,1 wk ahead cum death,,44,US,989,Iosco County,IOS,90.729553,-50.6859,1103
+,2020-09-21,1 wk ahead cum death,US,17,Illinois,218,Edgar County,EDG,40.633125,-89.398528,8814
+,2020-09-21,1 wk ahead cum death,,27,US,989,Iosco County,IOS,91.729553,-49.6859,2066
+,2020-09-21,1 wk ahead cum death,,32,US,989,Iosco County,IOS,92.729553,-48.6859,1586
+,2020-09-21,1 wk ahead cum death,,33,US,989,Iosco County,IOS,93.729553,-47.6859,441
+,2020-09-21,1 wk ahead cum death,US,20,Kansas,261,Allen County,ALN,39.011902,-98.484246,640
+,2020-09-21,1 wk ahead cum death,,29,US,989,Iosco County,IOS,94.729553,-46.6859,1915
+,2020-09-21,1 wk ahead cum death,,38,US,989,Iosco County,IOS,95.729553,-45.6859,208
+,2020-09-21,1 wk ahead cum death,,40,US,989,Iosco County,IOS,96.729553,-44.6859,996
+,2020-09-21,1 wk ahead cum death,,54,US,989,Iosco County,IOS,97.729553,-43.6859,346
+,2020-09-21,1 wk ahead cum death,,1,Alabama,251,Baldwin County,,32.318231,-86.902298,2519
+,2020-09-21,1 wk ahead cum death,,48,US,989,Iosco County,IOS,98.729553,-42.6859,15668
+,2020-09-21,1 wk ahead cum death,,26,US,989,Iosco County,IOS,99.729553,-41.6859,7032
+,2020-09-21,1 wk ahead cum death,,US,,,,,,,203961
+,2020-09-21,1 wk ahead cum death,US,22,Louisiana,319,Red River Parish County,RRP,31.244823,-92.145024,5468
+,2020-09-21,1 wk ahead cum death,US,24,Maryland,411,Queen Anne County,QAC,39.045755,-76.641271,3918
+,2020-09-21,1 wk ahead cum death,US,18,Indiana,813,Sullivan County,SUL,40.551217,-85.602364,3569
+,2020-09-21,1 wk ahead cum death,,49,US,990,Iosco County,IOS,100.729553,-40.6859,454
+,2020-09-21,1 wk ahead cum death,US,19,Iowa,642,Hancock County,HAN,41.878003,-93.097702,1312
+,2020-09-21,1 wk ahead cum death,,41,US,991,Iosco County,IOS,101.729553,-39.6859,545
+,2020-09-21,1 wk ahead cum death,,53,US,992,Iosco County,IOS,102.729553,-38.6859,2075
+,2020-09-21,1 wk ahead cum death,,35,US,993,Iosco County,IOS,103.729553,-37.6859,869
+,2020-09-21,1 wk ahead cum death,US,13,Georgia,706,Dade County,DAC,32.157435,-82.907123,6863
+,2020-09-21,1 wk ahead cum death,,25,US,994,Iosco County,IOS,104.729553,-36.6859,9384
+,2020-09-21,1 wk ahead cum death,,37,US,995,Iosco County,IOS,105.729553,-35.6859,3397
+,2020-09-21,1 wk ahead cum death,,42,US,996,Iosco County,IOS,106.729553,-34.6859,8044
+,2020-09-21,1 wk ahead cum death,US,12,Florida,904,Bakers County,BAK,27.664827,-81.515754,13820
+,2020-09-21,1 wk ahead cum death,,45,US,997,Iosco County,IOS,107.729553,-33.6859,3333
+,2020-09-21,1 wk ahead cum death,US,6,California,95914,Butte County,BTC,36.778261,-119.417932,15515
+,2020-09-21,1 wk ahead cum death,US,21,Kentucky,42716,Adair County,ADR,37.839333,-84.270018,1163
+,2020-09-21,1 wk ahead cum death,US,2,Alaska,99830,Petersburg Borogh,PBP,63.588753,-154.493062,48
+,2020-09-21,1 wk ahead cum death,,34,US,998,Iosco County,IOS,108.729553,-32.6859,16104
+,2020-09-21,1 wk ahead cum death,,30,US,999,Iosco County,IOS,109.729553,-31.6859,173
+,2020-09-21,1 wk ahead cum death,US,8,Colorado,970,Gunnison County,GUN,39.550051,-105.782067,2040
+,2020-09-21,1 wk ahead cum death,US,16,Idaho,83201,Bannock County,BAN,44.068202,-114.742041,467
+,2020-09-21,1 wk ahead cum death,,39,US,1000,Iosco County,IOS,110.729553,-30.6859,4756
+OliverWyman-Navigator,2020-09-21,1 wk ahead cum death,,US,,,,,,,209834.2263
+,2020-09-21,1 wk ahead cum death,US,2,Alaska,99613,Bristol Bay Borogh,BBR,63.588753,-154.493062,62.79737
+,2020-09-21,1 wk ahead cum death,,1,Alabama,205,Shelby County,,32.318231,-86.902298,2572.24952
+,2020-09-21,1 wk ahead cum death,US,5,Arkansas,71833,Howard County,HOC,35.20105,-91.831833,1418.141729
+,2020-09-21,1 wk ahead cum death,US,4,Arizona,480,Pinal County,PIC,34.048928,-111.093731,5774.72634
+,2020-09-21,1 wk ahead cum death,US,6,California,94504,Contra Costa County,COT,36.778261,-119.417932,16183.72627
+,2020-09-21,1 wk ahead cum death,US,8,Colorado,80722,Logan County,LOG,39.550051,-105.782067,2074.545185
+,2020-09-21,1 wk ahead cum death,US,9,Connecticut,203,Fairfield County,FFC,41.603221,-73.087749,4508.655538
+,2020-09-21,1 wk ahead cum death,US,11,District of Columbia,202,District of Columbia,DC,38.905985,-77.033418,627.732007
+,2020-09-21,1 wk ahead cum death,US,10,Delaware,19901,Kent County,KEC,38.910832,-75.52767,644.536659
+,2020-09-21,1 wk ahead cum death,US,12,Florida,850,Holmes County,HOL,27.664827,-81.515754,14785.63231
+,2020-09-21,1 wk ahead cum death,US,13,Georgia,39827,Miller County,MIL,32.157435,-82.907123,7238.654427
+,2020-09-21,1 wk ahead cum death,US,15,Hawaii,96708,Maui,MAU,19.898682,-155.665857,142.813816
+,2020-09-21,1 wk ahead cum death,US,19,Iowa,643,Hancock County,HAN,41.878003,-93.097702,1366.87032
+,2020-09-21,1 wk ahead cum death,US,16,Idaho,83612,Gem County,GEM,44.068202,-114.742041,482.131867
+,2020-09-21,1 wk ahead cum death,US,17,Illinois,219,Edgar County,EDG,40.633125,-89.398528,8997
+,2020-09-21,1 wk ahead cum death,US,18,Indiana,814,Sullivan County,SUL,40.551217,-85.602364,3651.770142
+,2020-09-21,1 wk ahead cum death,US,20,Kansas,262,Allen County,ALN,39.011902,-98.484246,682.206506
+,2020-09-21,1 wk ahead cum death,US,21,Kentucky,42717,Adair County,ADR,37.839333,-84.270018,1205.264329
+,2020-09-21,1 wk ahead cum death,US,22,Louisiana,320,Red River Parish County,RRP,31.244823,-92.145024,5531.086848
+,2020-09-21,1 wk ahead cum death,,25,US,1001,Iosco County,IOS,111.729553,-29.6859,9495.899677
+,2020-09-21,1 wk ahead cum death,US,24,Maryland,412,Queen Anne County,QAC,39.045755,-76.641271,3976.394683
+,2020-09-21,1 wk ahead cum death,US,23,Maine,4356,Waldo County,WAL,45.253783,-69.445469,141.167467
+,2020-09-21,1 wk ahead cum death,,26,US,1002,Iosco County,IOS,112.729553,-28.6859,7119.872351
+,2020-09-21,1 wk ahead cum death,,27,US,1003,Iosco County,IOS,113.729553,-27.6859,2109.501819
+,2020-09-21,1 wk ahead cum death,,29,US,1004,Iosco County,IOS,114.729553,-26.6859,2234
+,2020-09-21,1 wk ahead cum death,,28,US,1005,Iosco County,IOS,115.729553,-25.6859,3034.648749
+,2020-09-21,1 wk ahead cum death,,30,US,1006,Iosco County,IOS,116.729553,-24.6859,193.419355
+,2020-09-21,1 wk ahead cum death,,37,US,1007,Iosco County,IOS,117.729553,-23.6859,3640
+,2020-09-21,1 wk ahead cum death,,38,US,1008,Iosco County,IOS,118.729553,-22.6859,271.754745
+,2020-09-21,1 wk ahead cum death,,31,US,1009,Iosco County,IOS,119.729553,-21.6859,492.590451
+,2020-09-21,1 wk ahead cum death,,33,US,1010,Iosco County,IOS,120.729553,-20.6859,440.092268
+,2020-09-21,1 wk ahead cum death,,34,US,1011,Iosco County,IOS,121.729553,-19.6859,16148.25462
+,2020-09-21,1 wk ahead cum death,,35,US,1012,Iosco County,IOS,122.729553,-18.6859,897.406186
+,2020-09-21,1 wk ahead cum death,,32,US,1013,Iosco County,IOS,123.729553,-17.6859,1647.959996
+,2020-09-21,1 wk ahead cum death,,36,US,1014,Iosco County,IOS,124.729553,-16.6859,33172.89927
+,2020-09-21,1 wk ahead cum death,,39,US,1015,Iosco County,IOS,125.729553,-15.6859,4862.654559
+,2020-09-21,1 wk ahead cum death,,40,US,1016,Iosco County,IOS,126.729553,-14.6859,1070.543224
+,2020-09-21,1 wk ahead cum death,,41,US,1017,Iosco County,IOS,127.729553,-13.6859,562.48738
+,2020-09-21,1 wk ahead cum death,,42,US,1018,Iosco County,IOS,128.729553,-12.6859,8201.918907
+,2020-09-21,1 wk ahead cum death,,44,US,1019,Iosco County,IOS,129.729553,-11.6859,1122.322058
+,2020-09-21,1 wk ahead cum death,,45,US,1020,Iosco County,IOS,130.729553,-10.6859,3457.879193
+,2020-09-21,1 wk ahead cum death,,46,US,1021,Iosco County,IOS,131.729553,-9.6859,237.921833
+,2020-09-21,1 wk ahead cum death,,47,US,1022,Iosco County,IOS,132.729553,-8.6859,2524.110082
+,2020-09-21,1 wk ahead cum death,,48,US,1023,Iosco County,IOS,133.729553,-7.6859,16411.93519
+,2020-09-21,1 wk ahead cum death,,49,US,1024,Iosco County,IOS,134.729553,-6.6859,463.612023
+,2020-09-21,1 wk ahead cum death,,51,US,1025,Iosco County,IOS,135.729553,-5.6859,3264.42625
+,2020-09-21,1 wk ahead cum death,,50,US,1026,Iosco County,IOS,136.729553,-4.6859,58
+,2020-09-21,1 wk ahead cum death,,53,US,1027,Iosco County,IOS,137.729553,-3.6859,2177.091737
+,2020-09-21,1 wk ahead cum death,,55,US,1028,Iosco County,IOS,138.729553,-2.6859,1330.771089
+,2020-09-21,1 wk ahead cum death,,54,US,1029,Iosco County,IOS,139.729553,-1.6859,363.743033
+,2020-09-21,1 wk ahead cum death,,56,US,1030,Iosco County,IOS,140.729553,-0.6859,51.406942
+NotreDame-mobility,2020-09-21,1 wk ahead cum death,,US,,,,,,,208300.1861
+,2020-09-21,1 wk ahead cum death,US,2,Alaska,99835,Sitka Borough,SB,63.588753,-154.493062,59.41365305
+,2020-09-21,1 wk ahead cum death,,1,Alabama,256,Morgan County,,32.318231,-86.902298,2613.787213
+,2020-09-21,1 wk ahead cum death,US,5,Arkansas,72311,Lee County,LEC,35.20105,-91.831833,1372.133866
+,2020-09-21,1 wk ahead cum death,US,4,Arizona,520,Satna Cruz,SAC,34.048928,-111.093731,5704.777251
+,2020-09-21,1 wk ahead cum death,US,6,California,619,San Diego,SD,36.778261,-119.417932,15868.47752
+,2020-09-21,1 wk ahead cum death,US,8,Colorado,80001,Jefferson County,JEF,39.550051,-105.782067,2042.469197
+,2020-09-21,1 wk ahead cum death,US,9,Connecticut,60010,Hartford county,HRT,41.603221,-73.087749,4513.090909
+,2020-09-21,1 wk ahead cum death,US,11,District of Columbia,202,District of Columbia,DC,38.905985,-77.033418,627.1236757
+,2020-09-21,1 wk ahead cum death,US,10,Delaware,19901,Kent County,KEC,38.910832,-75.52767,639.2384313
+,2020-09-21,1 wk ahead cum death,US,12,Florida,32421,Calhoun Country,CAL,27.664827,-81.515754,14550.86214
+,2020-09-21,1 wk ahead cum death,US,13,Georgia,229,Cook County,COO,32.157435,-82.907123,7166.367632
+,2020-09-21,1 wk ahead cum death,,66,US,1031,Iosco County,IOS,141.729553,0.3141,41.60972361
+,2020-09-21,1 wk ahead cum death,US,15,Hawaii,96709,Maui,MAU,19.898682,-155.665857,147.4094508
+,2020-09-21,1 wk ahead cum death,US,19,Iowa,644,Hancock County,HAN,41.878003,-93.097702,1353.665464
+,2020-09-21,1 wk ahead cum death,US,16,Idaho,83322,Camas County,CAM,44.068202,-114.742041,484.1931402
+,2020-09-21,1 wk ahead cum death,US,17,Illinois,220,Edgar County,EDG,40.633125,-89.398528,8961.945388
+,2020-09-21,1 wk ahead cum death,US,18,Indiana,815,Sullivan County,SUL,40.551217,-85.602364,3639.619072
+,2020-09-21,1 wk ahead cum death,US,20,Kansas,263,Allen County,ALN,39.011902,-98.484246,666.7925408
+,2020-09-21,1 wk ahead cum death,US,21,Kentucky,42718,Adair County,ADR,37.839333,-84.270018,1189.963292
+,2020-09-21,1 wk ahead cum death,US,22,Louisiana,321,Red River Parish County,RRP,31.244823,-92.145024,5530.577756
+,2020-09-21,1 wk ahead cum death,,25,US,1032,Iosco County,IOS,142.729553,1.3141,9458.517156
+,2020-09-21,1 wk ahead cum death,US,24,Maryland,413,Queen Anne County,QAC,39.045755,-76.641271,3982.346507
+,2020-09-21,1 wk ahead cum death,US,23,Maine,4357,Waldo County,WAL,45.253783,-69.445469,140.7442557
+,2020-09-21,1 wk ahead cum death,,26,US,1033,Iosco County,IOS,143.729553,2.3141,7075.140193
+,2020-09-21,1 wk ahead cum death,,27,US,1034,Iosco County,IOS,144.729553,3.3141,2075.145314
+,2020-09-21,1 wk ahead cum death,,29,US,1035,Iosco County,IOS,145.729553,4.3141,2145.481518
+,2020-09-21,1 wk ahead cum death,,28,US,1036,Iosco County,IOS,146.729553,5.3141,2981.071262
+,2020-09-21,1 wk ahead cum death,,30,US,1037,Iosco County,IOS,147.729553,6.3141,186.0246445
+,2020-09-21,1 wk ahead cum death,,37,US,1038,Iosco County,IOS,148.729553,7.3141,3545.055611
+,2020-09-21,1 wk ahead cum death,,38,US,1039,Iosco County,IOS,149.729553,8.3141,261.3474727
+,2020-09-21,1 wk ahead cum death,,31,US,1040,Iosco County,IOS,150.729553,9.3141,489.5744256
+,2020-09-21,1 wk ahead cum death,,33,US,1041,Iosco County,IOS,151.729553,10.3141,443.6523477
+,2020-09-21,1 wk ahead cum death,,34,US,1042,Iosco County,IOS,152.729553,11.3141,16146.05261
+,2020-09-21,1 wk ahead cum death,,35,US,1043,Iosco County,IOS,153.729553,12.3141,887.3160961
+,2020-09-21,1 wk ahead cum death,,32,US,1044,Iosco County,IOS,154.729553,13.3141,1628.538462
+,2020-09-21,1 wk ahead cum death,,36,US,1045,Iosco County,IOS,155.729553,14.3141,33182.49251
+,2020-09-21,1 wk ahead cum death,,39,US,1046,Iosco County,IOS,156.729553,15.3141,4801.648352
+,2020-09-21,1 wk ahead cum death,,40,US,1047,Iosco County,IOS,157.729553,16.3141,1014.369684
+,2020-09-21,1 wk ahead cum death,,41,US,1048,Iosco County,IOS,158.729553,17.3141,566.0218779
+,2020-09-21,1 wk ahead cum death,,42,US,1049,Iosco County,IOS,159.729553,18.3141,8145.206793
+,2020-09-21,1 wk ahead cum death,,72,US,1050,Iosco County,IOS,160.729553,19.3141,670.8613641
+,2020-09-21,1 wk ahead cum death,,44,US,1051,Iosco County,IOS,161.729553,20.3141,1123.920029
+,2020-09-21,1 wk ahead cum death,,45,US,1052,Iosco County,IOS,162.729553,21.3141,3431.012337
+,2020-09-21,1 wk ahead cum death,,46,US,1053,Iosco County,IOS,163.729553,22.3141,225.3630217
+,2020-09-21,1 wk ahead cum death,,47,US,1054,Iosco County,IOS,164.729553,23.3141,2469.080586
+,2020-09-21,1 wk ahead cum death,,48,US,1055,Iosco County,IOS,165.729553,24.3141,16262.56975
+,2020-09-21,1 wk ahead cum death,,49,US,1056,Iosco County,IOS,166.729553,25.3141,479.8934399
+,2020-09-21,1 wk ahead cum death,,51,US,1057,Iosco County,IOS,167.729553,26.3141,3218.453213
+,2020-09-21,1 wk ahead cum death,,78,US,1058,Iosco County,IOS,168.729553,27.3141,19.7012987
+,2020-09-21,1 wk ahead cum death,,50,US,1059,Iosco County,IOS,169.729553,28.3141,58.47306124
+,2020-09-21,1 wk ahead cum death,,53,US,1060,Iosco County,IOS,170.729553,29.3141,2139.5375
+,2020-09-21,1 wk ahead cum death,,55,US,1061,Iosco County,IOS,171.729553,30.3141,1459.511906
+,2020-09-21,1 wk ahead cum death,,54,US,1062,Iosco County,IOS,172.729553,31.3141,359.2051282
+,2020-09-21,1 wk ahead cum death,,56,US,1063,Iosco County,IOS,173.729553,32.3141,52.16317016
+epiforecasts-ensemble1,2020-09-21,1 wk ahead cum death,,1,Alabama,938,Jackson County,,32.318231,-86.902298,2575
+,2020-09-21,1 wk ahead cum death,US,2,Alaska,99840,Skagway County,SKC,63.588753,-154.493062,50
+,2020-09-21,1 wk ahead cum death,US,4,Arizona,85333,Yuma County,YUC,34.048928,-111.093731,5625
+,2020-09-21,1 wk ahead cum death,US,5,Arkansas,72515,Izard County,IZC,35.20105,-91.831833,1134
+,2020-09-21,1 wk ahead cum death,US,6,California,707,Napa County,NPC,36.778261,-119.417932,16114
+,2020-09-21,1 wk ahead cum death,US,8,Colorado,81030,Otero County,OTR,39.550051,-105.782067,2053
+,2020-09-21,1 wk ahead cum death,US,9,Connecticut,6401,New Haven County,NHC,41.603221,-73.087749,4500
+,2020-09-21,1 wk ahead cum death,US,10,Delaware,19901,Kent County,KEC,38.910832,-75.52767,639
+,2020-09-21,1 wk ahead cum death,US,11,District of Columbia,202,District of Columbia,DC,38.905985,-77.033418,627
+,2020-09-21,1 wk ahead cum death,US,12,Florida,32321,Liberty County,LIB,27.664827,-81.515754,14280
+,2020-09-21,1 wk ahead cum death,US,13,Georgia,31760,Irwin County,IRW,32.157435,-82.907123,6894
+,2020-09-21,1 wk ahead cum death,US,15,Hawaii,96703,Kauai,KAU,19.898682,-155.665857,132
+,2020-09-21,1 wk ahead cum death,US,16,Idaho,83323,Camas County,CAM,44.068202,-114.742041,489
+,2020-09-21,1 wk ahead cum death,US,17,Illinois,221,Edgar County,EDG,40.633125,-89.398528,8582
+,2020-09-21,1 wk ahead cum death,US,18,Indiana,816,Sullivan County,SUL,40.551217,-85.602364,3649
+,2020-09-21,1 wk ahead cum death,US,19,Iowa,645,Hancock County,HAN,41.878003,-93.097702,1360
+,2020-09-21,1 wk ahead cum death,US,20,Kansas,264,Allen County,ALN,39.011902,-98.484246,639
+,2020-09-21,1 wk ahead cum death,US,21,Kentucky,42719,Adair County,ADR,37.839333,-84.270018,1170
+,2020-09-21,1 wk ahead cum death,US,22,Louisiana,322,Red River Parish County,RRP,31.244823,-92.145024,5546
+,2020-09-21,1 wk ahead cum death,US,24,Maryland,414,Queen Anne County,QAC,39.045755,-76.641271,4011
+,2020-09-21,1 wk ahead cum death,,25,US,1064,Iosco County,IOS,174.729553,33.3141,9392
+,2020-09-21,1 wk ahead cum death,,26,US,1065,Iosco County,IOS,175.729553,34.3141,7074
+,2020-09-21,1 wk ahead cum death,,27,US,1066,Iosco County,IOS,176.729553,35.3141,2116
+,2020-09-21,1 wk ahead cum death,,28,US,1067,Iosco County,IOS,177.729553,36.3141,3021
+,2020-09-21,1 wk ahead cum death,,29,US,1068,Iosco County,IOS,178.729553,37.3141,1983
+,2020-09-21,1 wk ahead cum death,,30,US,1069,Iosco County,IOS,179.729553,38.3141,174
+,2020-09-21,1 wk ahead cum death,,31,US,1070,Iosco County,IOS,180.729553,39.3141,479
+,2020-09-21,1 wk ahead cum death,,32,US,1071,Iosco County,IOS,181.729553,40.3141,1609
+,2020-09-21,1 wk ahead cum death,,34,US,1072,Iosco County,IOS,182.729553,41.3141,16324
+,2020-09-21,1 wk ahead cum death,,35,US,1073,Iosco County,IOS,183.729553,42.3141,890
+,2020-09-21,1 wk ahead cum death,,36,US,1074,Iosco County,IOS,184.729553,43.3141,33074
+,2020-09-21,1 wk ahead cum death,,37,US,1075,Iosco County,IOS,185.729553,44.3141,3458
+,2020-09-21,1 wk ahead cum death,,38,US,1076,Iosco County,IOS,186.729553,45.3141,225
+,2020-09-21,1 wk ahead cum death,,39,US,1077,Iosco County,IOS,187.729553,46.3141,4927
+,2020-09-21,1 wk ahead cum death,,40,US,1078,Iosco County,IOS,188.729553,47.3141,1007
+,2020-09-21,1 wk ahead cum death,,41,US,1079,Iosco County,IOS,189.729553,48.3141,546
+,2020-09-21,1 wk ahead cum death,,42,US,1080,Iosco County,IOS,190.729553,49.3141,8080
+,2020-09-21,1 wk ahead cum death,,44,US,1081,Iosco County,IOS,191.729553,50.3141,1105
+,2020-09-21,1 wk ahead cum death,,45,US,1082,Iosco County,IOS,192.729553,51.3141,3312
+,2020-09-21,1 wk ahead cum death,,46,US,1083,Iosco County,IOS,193.729553,52.3141,219
+,2020-09-21,1 wk ahead cum death,,47,US,1084,Iosco County,IOS,194.729553,53.3141,2380
+,2020-09-21,1 wk ahead cum death,,48,US,1085,Iosco County,IOS,195.729553,54.3141,15228
+,2020-09-21,1 wk ahead cum death,,49,US,1086,Iosco County,IOS,196.729553,55.3141,463
+,2020-09-21,1 wk ahead cum death,,51,US,1087,Iosco County,IOS,197.729553,56.3141,3131
+,2020-09-21,1 wk ahead cum death,,53,US,1088,Iosco County,IOS,198.729553,57.3141,2151
+,2020-09-21,1 wk ahead cum death,,54,US,1089,Iosco County,IOS,199.729553,58.3141,341
+,2020-09-21,1 wk ahead cum death,,55,US,1090,Iosco County,IOS,200.729553,59.3141,1320
+,2020-09-21,1 wk ahead cum death,,66,US,1091,Iosco County,IOS,201.729553,60.3141,38
+,2020-09-21,1 wk ahead cum death,,72,US,1092,Iosco County,IOS,202.729553,61.3141,651
+,2020-09-21,1 wk ahead cum death,,US,,,,,,,207961
